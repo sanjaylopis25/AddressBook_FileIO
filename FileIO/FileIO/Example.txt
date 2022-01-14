@@ -1,0 +1,3 @@
+﻿Welcome to File IO
+This is the second line 
+Third LineHellow World - .Net is awesome
